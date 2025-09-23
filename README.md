@@ -91,7 +91,3 @@ If you use this repository in research or projects, please cite:
 
 > Tsay, R. S. (2010). *Analysis of Financial Time Series*. 3rd Edition. Wiley.
 
----
-
-If you like, I can also **add a small section showing AR(3) cycle length computation and characteristic roots example**, so the README highlights your modifications clearly. Do you want me to do that?
-
